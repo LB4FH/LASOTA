@@ -38,5 +38,16 @@
   background-color: lightgray;
   color: black;
   border-radius: 5px;
+  text-align: left;
 
+}
+
+.top {
+  padding: 0.5em;
+  background-color: lightgray;
+  color: red;
+  border-radius: 5px;
+  text-align: center;
+  background-image: url("/img/bolhogda.jpg");
+  background-position: bottom;
 }
