@@ -50,14 +50,16 @@ function App() {
         <a href="https://goo.gl/maps/X5nJBvTTyHBr5kW1A" target="_blank">Venabygdsfjellet</a> ligger nordøst for Ringebu, og ligger på fjellet mellom Gudbrandsdalen og Østerdalen.<br />
         <h4>Overnatting:</h4> 
         Bestilles av den enkelte etter eget ønske. Det er muligheter for overnatting i moderne leiligheter i Lundegard, en hyggelig hytte i Lundegrenda, eller med bobil, campingvogn eller telt og for de som ønsker å overnatte i Lundecampen. Overnatting bestilles via <a href="https://lundes.no" target="_blank">Lundegrenda</a> og betales direkte av den enkelte deltager. 
-        <h4>Måltider</h4>
-        Det blir felles middag på Lundekroa lørdag kveld, utover dette må alle måltider besørges av den enkelte.
+        <h4>Påmelding</h4>
+        Påmeldingsavgift kr 289,- som dekker middag (biffsnadder) på Lundekroa lørdag kveld. Drikke til middag må bekostes av den enkelte. Bindende påmelding (pga middagsbestilling) gjøres via skjemaet lenger nede.<br />
+        Deltakelse betinger medlemskap i Summits On The Air Norway (kr 200,- /pr år).   <br />
+        SOTA Norway benytter Spond som medlemsregister og kommunikasjonskanal. <br />
       </div>
       <br />
 
       <br />
       <div className="card">
-        <h2>Innmelding i foreningen</h2>
+       <h2>Innmelding i foreningen</h2>
         Vi bruker Spond til å håndtere medlemsskap i foreningen.<br />
         Hvis du bruker nettleser og er påmelding: <a href="https://club.spond.com/landing/signup/summits/form/CAB27D79E0524E37A9682CFBA3E88343" target="_blank">Her</a> <br />
         Hvis du bruker mobilappen klikker du <a href="https://group.spond.com/GJYPB" target="_blank">Her</a> <br />
