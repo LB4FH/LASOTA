@@ -57,16 +57,16 @@ function App() {
 
       <br />
       <div className="card">
-        <h2>Påmeldingsinformasjon</h2>
-        Påmeldingsavgift kr 280,- som dekker middag (biffsnadder) på Lundekroa lørdag kveld. Drikke til middag må bekostes av den enkelte. Bindende påmelding (pga middagsbestilling) gjøres via <a href="https://forms.gle/ZR8CbH8JEZUxN7VCA" target="_blank">dette</a> skjemaet. Beløpet betales på stedet. 
+        <h2>Innmelding i foreningen</h2>
+        Vi bruker Spond til å håndtere medlemsskap i foreningen.<br />
+        Hvis du bruker nettleser og er påmelding: <a href="https://club.spond.com/landing/signup/summits/form/CAB27D79E0524E37A9682CFBA3E88343" target="_blank">Her</a> <br />
+        Hvis du bruker mobilappen klikker du <a href="https://group.spond.com/GJYPB" target="_blank">Her</a> <br />
         <br />
-        Deltakelse betinger medlemskap i Summits On The Air Norway (kr 200,- /pr år). Medlemskap tegnes under selve arrangementet. 
+        Etter at du har bedt om medlemskap via Spond, og fått tilbakemelding på denne, vil du motta en betalingsforespørsel for medlemskontingent for 2023 på kr 200 via Spond ( se arkfane Betalinger) 
+        <br />
+        <h2>Påmelding til arrangement</h2>
+        Etter at du har meldt deg inn i foreningen kan du melde deg på arrangementet i appen eller <a href="https://spond.com/client/sponds/46B2753CBB594584B4BF066350EF8EE7" target="_blank">her</a>        <br /><br />
 
-        <br />
-        <br />
-        Total kostnad er da kr 480,- 
-        <br /><br />
-        Påmeldingsfrist i løpet av <b>mandag 14.august</b>.
       </div>
       <br />
       <div className="card">
